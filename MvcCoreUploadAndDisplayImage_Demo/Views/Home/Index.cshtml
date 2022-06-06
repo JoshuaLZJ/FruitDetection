@@ -1,0 +1,38 @@
+﻿@model IEnumerable<MvcCoreUploadAndDisplayImage_Demo.Models.ObjectDetectionTask>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h4 class="text-center text-uppercase">List of ObjectDetectionTasks</h4>
+
+<p>
+    <a asp-action="New" class="btn btn-sm btn-primary rounded-0 text-uppercase"><i class="fas fa-plus-circle"></i> Add New</a>
+</p>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <td>
+                <text>Original image</text>
+            </td>
+            <td>
+                <text>Processed image</text>
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ObjectDetectionTask in Model)
+        {
+        <tr>
+            <td>
+                <img src="~/images/@ObjectDetectionTask.InputPicture"
+                     asp-append-version="true" />
+            </td>
+            <td>
+                <img src="~/images/@ObjectDetectionTask.ProcessedImage"
+                     asp-append-version="true" />
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

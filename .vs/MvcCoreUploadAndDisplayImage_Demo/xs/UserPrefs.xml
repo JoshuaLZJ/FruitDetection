@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{BF1AA11F-470F-4375-AC0F-BA0B2CF5615E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcCoreUploadAndDisplayImage_Demo/Controllers/HomeController.cs">
+    <Files>
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/appsettings.json" Line="14" Column="1" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/Controllers/HomeController.cs" Line="164" Column="59" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/Startup.cs" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/Views/Home/Index.cshtml" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/Views/Home/New.cshtml" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/DataStructures/TensorflowSettings.cs" Line="6" Column="41" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/FasterRCNNModelScorer.cs" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/YoloParser/YoloBoundingBox.cs" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/DataStructures/ImageNetData.cs" />
+      <File FileName="MvcCoreUploadAndDisplayImage_Demo/Models/Detection.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcCoreUploadAndDisplayImage_Demo" expanded="True">
+            <Node name="MvcCoreUploadAndDisplayImage_Demo" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+              <Node name="DataStructures" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+              <Node name="YoloParser" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MvcCoreUploadAndDisplayImage__Demo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

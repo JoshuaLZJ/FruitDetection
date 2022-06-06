@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/joshualaw/Documents/Monash_U_Work/Codon_Genomics/ObjectDetectionPOCProject/ObjectDetectionPOC/MvcCoreUploadAndDisplayImage_Demo/MvcCoreUploadAndDisplayImage_Demo.csproj": {}
+  },
+  "projects": {
+    "/Users/joshualaw/Documents/Monash_U_Work/Codon_Genomics/ObjectDetectionPOCProject/ObjectDetectionPOC/MvcCoreUploadAndDisplayImage_Demo/MvcCoreUploadAndDisplayImage_Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/joshualaw/Documents/Monash_U_Work/Codon_Genomics/ObjectDetectionPOCProject/ObjectDetectionPOC/MvcCoreUploadAndDisplayImage_Demo/MvcCoreUploadAndDisplayImage_Demo.csproj",
+        "projectName": "MvcCoreUploadAndDisplayImage_Demo",
+        "projectPath": "/Users/joshualaw/Documents/Monash_U_Work/Codon_Genomics/ObjectDetectionPOCProject/ObjectDetectionPOC/MvcCoreUploadAndDisplayImage_Demo/MvcCoreUploadAndDisplayImage_Demo.csproj",
+        "packagesPath": "/Users/joshualaw/.nuget/packages/",
+        "outputPath": "/Users/joshualaw/Documents/Monash_U_Work/Codon_Genomics/ObjectDetectionPOCProject/ObjectDetectionPOC/MvcCoreUploadAndDisplayImage_Demo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/joshualaw/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.17.3, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.5.5, )"
+            },
+            "Microsoft.ML.ImageAnalytics": {
+              "target": "Package",
+              "version": "[1.5.5, )"
+            },
+            "Microsoft.ML.OnnxRuntime": {
+              "target": "Package",
+              "version": "[1.8.0, )"
+            },
+            "Microsoft.ML.OnnxTransformer": {
+              "target": "Package",
+              "version": "[1.5.5, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
